@@ -1,0 +1,1 @@
+/Users/diegoarevalo/Desktop/my\ projects/rust/fundamental-rust/functions-practices/target/debug/functions-practices: /Users/diegoarevalo/Desktop/my\ projects/rust/fundamental-rust/functions-practices/src/main.rs
